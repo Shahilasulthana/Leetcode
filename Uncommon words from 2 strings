@@ -1,0 +1,43 @@
+class Solution {
+
+    public String[] uncommonFromSentences(String s1, String s2) {
+        // Splitting the strings into arrays
+        String[] str1 = s1.split(" ");
+        String[] str2 = s2.split(" ");
+
+        // HashMap to count occurrences of each word
+        HashMap<String, Integer> map = new HashMap<>();
+
+        // Traverse through the first string and store the keys in the hashmap
+        for (String s : str1) {
+            map.put(s, map.getOrDefault(s, 0) + 1);
+        }
+
+        // Traverse through the second string and store the keys in the hashmap
+        for (String s : str2) {
+            map.put(s, map.getOrDefault(s, 0) + 1);
+        }
+
+        // Count the number of uncommon words
+        int count = 0;
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            if (entry.getValue() == 1) {
+                count++;
+            }
+        }
+
+        // Initialize the array with the size of uncommon words
+        String[] arr = new String[count];
+        int k = 0;
+
+        // Populate the result array with uncommon words
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            if (entry.getValue() == 1) {
+                arr[k] = entry.getKey();
+                k++;
+            }
+        }
+
+        return arr;
+    }
+}
