@@ -1,0 +1,33 @@
+class Solution {
+    public List<String> summaryRanges(int[] nums) {
+        List<String> result = new ArrayList();
+        int n = nums.length;
+        for(int i=0;i<n;i++){
+            int start = nums[i];
+            while(i+1 < n && nums[i+1] == nums[i] + 1)
+                i++;
+                if(start!=nums[i])
+                    result.add(""+start+"->"+nums[i]);
+                
+                else
+                    result.add(""+start);
+                
+            }
+            return result;
+        
+        
+    }
+}
+
+
+
+
+
+/*
+1.traverse the input array nums
+
+2.if the next element in the array in the sum of 1 of the previous element move to the next element and check further if the condition fails then store it in an array list as string and move to the next element 
+
+3.if the next number is not the sum of the current number then store it as a single integer as strign in the aray list
+
+*/
