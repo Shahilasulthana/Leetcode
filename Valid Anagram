@@ -1,0 +1,15 @@
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        //to convert the string into characters and store it in the char array
+        char[] s_sort = s.toCharArray();
+        char[] t_sort = t.toCharArray();
+
+        //sorting the char arrays with the help of a built in method
+        Arrays.sort(s_sort);
+        Arrays.sort(t_sort);
+
+        //return true if both the arrays after sorting contains the same characters
+        return Arrays.equals(s_sort,t_sort);
+
+    }
+}
