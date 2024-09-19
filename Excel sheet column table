@@ -1,0 +1,31 @@
+class Solution {
+    public String convertToTitle(int columnNumber) {
+       StringBuilder string = new StringBuilder();
+       while(columnNumber > 0){
+        int i = (columnNumber - 1) % 26;
+        string.insert(0,(char)('A' + i));
+        columnNumber = (columnNumber-1)/26;
+        }
+       return string.toString();
+    }
+}
+
+/*
+
+Input: columnNumber = 701
+
+ i = 701 % 26 = 700 % 26 = 24 
+ insert(0,('A'+24)) --> 24 = 'Y'--> insert Y
+ columnNumber = 700/26 = 26
+ while(26>0){
+    i = 25 % 26 = 25
+    insert(0,'A'+25) --> 25 = 'Z' --> insert Z
+    columnNumber = 25 / 26 = 0
+    condition fails
+    out of while loop 
+    return the string 
+ }
+
+
+
+ */
