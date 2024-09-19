@@ -1,0 +1,54 @@
+class Solution {
+    public List<Integer> diffWaysToCompute(String expression) {
+        // List to store the possible answers
+        List<Integer> arr = new ArrayList<>();
+
+        // Check if the expression is empty
+        if (expression.length() == 0) {
+            return arr;
+        }
+
+        // Check if the expression is a single number
+        if (isNumeric(expression)) {
+            arr.add(Integer.parseInt(expression));
+            return arr;
+        }
+
+        // Traverse the expression
+        for (int ind = 0; ind < expression.length(); ind++) {
+            char curr = expression.charAt(ind);
+            if (curr == '*' || curr == '+' || curr == '-') {
+                // Creating a left subtree
+                List<Integer> left = diffWaysToCompute(expression.substring(0, ind));
+                // Creating a right subtree
+                List<Integer> right = diffWaysToCompute(expression.substring(ind + 1));
+
+                // Iterate over the left and right subtree to add it to the list
+                for (int i : left) {
+                    for (int j : right) {
+                        if (curr == '*') {
+                            arr.add(i * j);
+                        } else if (curr == '+') {
+                            arr.add(i + j);
+                        } else {
+                            arr.add(i - j);
+                        }
+                    }
+                }
+            }
+        }
+
+        return arr;
+    }
+   private boolean isNumeric(String str) {
+        if (str == null || str.isEmpty()) {
+            return false;
+        }
+        for (char c : str.toCharArray()) {
+            if (!Character.isDigit(c)) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
