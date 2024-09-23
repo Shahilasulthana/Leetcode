@@ -1,0 +1,42 @@
+class Solution {
+    public int minExtraChar(String s, String[] dictionary) {
+        //Initialize an hashset and put all the elements in the dictionary into the hashset ensuring that there are no duplicate substrings are searched
+
+        Set<String> set_dict = new HashSet<>();
+
+        //traverse the dictionary and transfer all the elements from the dictionary into the hash set
+
+        for(String elements : dictionary){
+            set_dict.add(elements);
+        }
+
+        int n = s.length();
+        //Initialize an array to store the minimum number of extra characters
+
+        int[] arr = new int[n+1];
+
+        //traverse the entire string s with the help of 2 pointers i and j and check for the existence of the substring of dictionary in the given string s
+
+        for(int i=1;i<=n;i++){
+            //initialize all the elements in arr to the length of the string
+
+            arr[i] = n;
+        }
+        arr[0] = 0;//for an empty string
+
+        //traverse each character in the string to check for the existence of the substring
+
+        for(int i=1;i<=n;i++){
+            for(int j=0;j<i;j++){
+                String sub_string = s.substring(j,i);//sub string
+                if(set_dict.contains(sub_string)){
+                //If the substring exists then the minimum value is initialized to the index wherever the substring is found
+                    arr[i] = Math.min(arr[i],arr[j]);
+                }
+                //else 
+                arr[i] = Math.min(arr[i],arr[i-1]+1);
+             }
+        }
+        return arr[n];
+    }
+}  
