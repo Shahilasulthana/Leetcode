@@ -1,0 +1,17 @@
+class Solution {
+    public boolean isArraySpecial(int[] nums) {
+        if (nums.length == 1) {
+            return true; // A single-element array is always special.
+        }
+
+        for (int i = 0; i < nums.length - 1; i++) { 
+            // Check if adjacent elements follow an alternating pattern
+            if ((nums[i] % 2 == 0 && nums[i + 1] % 2 == 0) || 
+                (nums[i] % 2 != 0 && nums[i + 1] % 2 != 0)) {
+                return false; // If two adjacent elements are both even or both odd, return false
+            }
+        }
+
+        return true; // If the loop completes, the array is special
+    }
+}
