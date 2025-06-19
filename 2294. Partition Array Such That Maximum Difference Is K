@@ -1,0 +1,19 @@
+class Solution:
+    def partitionArray(self, nums: List[int], k: int) -> int:
+        # keeping the result count as 1
+        res = 1
+
+        # sorting the nums
+        nums.sort()
+
+        # after sorting, the minimum element is at index 0
+        min = nums[0]
+
+        # applying the condition that if the difference between min and the new element within the array 
+        # exceeds the value of k then we have to create a new subsequence and increase the count of the res by 1
+        for i in range(1, len(nums)):
+            if ((nums[i] - min) > k):
+                res += 1
+                min = nums[i]
+
+        return res
