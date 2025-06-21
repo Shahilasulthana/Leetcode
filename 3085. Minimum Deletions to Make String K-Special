@@ -1,0 +1,18 @@
+class Solution:
+    def minimumDeletions(self, word: str, k: int) -> int:
+        # calculate the frequency of each letter in a string
+        # keep any one letter as constant
+        # check the difference between the constant term and all other letter's frequency if the difference is greater than k then it will be reduced so that the difference should be less or equal to k
+
+        freq = Counter(word).values()   # Get all frequencies
+        res = float('inf')              # Start with infinity, we’ll minimize this
+
+        for t in freq:
+            curr = 0                    # Current deletion count
+            for f in freq:
+                if f < t:
+                    curr += f          # Delete all characters of lower frequency
+                elif f > t + k:
+                    curr += f - (t + k)  # Reduce high frequency to t+k
+            res = min(res, curr)       # Take the minimum across all "target" t
+        return res
