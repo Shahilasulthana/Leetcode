@@ -1,0 +1,24 @@
+class Solution:
+    def divideString(self, s: str, k: int, fill: str) -> List[str]:
+        # i is the variable that keep tracks of the string s from where to 
+        # and from where to start next  
+
+        # Until the i is less than the length of s the grouping continuous and 
+        # another condition is checked that if length of the group is less than k
+        # if so the difference between the s and group of fills will be added and 
+        # finally the groups are appended to the result
+
+        res = [] # Initializing the list
+        i = 0
+        while(i < len(s)):
+            group = s[i:i+k] # if k numbers of characters in a string is present
+            if(k > len(group)): 
+                group += fill * (k - len(group))
+            res.append(group)
+            i += k
+        return res
+   
+                
+                
+
+        
