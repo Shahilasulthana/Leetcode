@@ -1,0 +1,36 @@
+# Brute Force Solution:
+
+class Solution:
+    def findKDistantIndices(self, nums: List[int], key: int, k: int) -> List[int]:
+
+        # In the brute force solution of this problem approach we have used a set to store all the indices which satisfies the condition of k-distant index array
+
+        # we iterate through each of the element in nums array and also we have a nested loop to check whether the any element in the nums array is equal to the key value given, if so then another condition is checked that is if the absolute difference between i and j are less than or equal to k value given...if it satisfies the condition then the index i is added to the set if not then the loop gets breaked and the process continues.
+        
+        result = set()
+        for i in range(0,len(nums)):
+            for j in range(0,len(nums)):
+                if nums[j] == key:
+                    if abs(i-j) <=k:
+                        result.add(i)
+                        break
+        return sorted(list(result))
+
+# Optimal solution\
+
+class Solution:
+    def findKDistantIndices(self, nums: List[int], key: int, k: int) -> List[int]:
+        # for the optimal approach we have used two pointer concept to keep track of the nearest closest neighbour of the nums[j] if that satisfies the condition then all the other in between will also satisfies the condition
+        result = set()
+        for j in range(0,len(nums)):
+            if nums[j] == key:
+                left = max(0, j-k)
+                right = min(len(nums)-1, j+k)
+                for i in range(left, right+1):
+                    result.add(i)
+        return sorted(list(result))
+        
+
+             
+
+        
