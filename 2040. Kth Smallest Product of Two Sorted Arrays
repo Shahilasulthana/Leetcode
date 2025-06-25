@@ -1,0 +1,31 @@
+from bisect import bisect, bisect_right
+from typing import List
+from math import ceil
+
+class Solution:
+    def kthSmallestProduct(self, nums1: List[int], nums2: List[int], k: int) -> int:
+        def count_less_equal(mid):
+            total = 0
+            for n1 in nums1:
+                if n1 > 0:
+                    # Count how many numbers in nums2 have product <= mid
+                    total += bisect_right(nums2, mid // n1)
+                elif n1 < 0:
+                    # For negative n1, ceil(mid/n1) gives the max value in nums2
+                    total += len(nums2) - bisect_left(nums2, ceil(mid / n1))
+                else:
+                    if mid >= 0:
+                        total += len(nums2)
+            return total
+
+        nums1.sort()
+        nums2.sort()
+        
+        left, right = -10**10, 10**10
+        while left < right:
+            mid = (left + right) // 2
+            if count_less_equal(mid) < k:
+                left = mid + 1
+            else:
+                right = mid
+        return left
