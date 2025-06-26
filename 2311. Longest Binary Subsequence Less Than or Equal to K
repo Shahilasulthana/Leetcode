@@ -1,0 +1,44 @@
+class Solution:
+    def longestSubsequence(self, s: str, k: int) -> int:
+        decimal = int(s,2)
+        result = 0
+        powers = pow(2, len(s)-1)
+        for i,n in enumerate(s):
+            if decimal > k and n == '1':
+                decimal = decimal - powers
+            else:
+                result += 1
+            powers = powers // 2
+        return result
+
+
+# 1. Checking if the decimal of the binary string s is greater than the value of k
+# 2. If the decimal value is greater and if the first index or the highest power is 0 or 1 if it is 1 then we subtract the value of decimal number with the power of the number 
+# 3. else we have to increase the result 
+# 4. Reduce the power or divide the value of the power by 2
+# 5. Return the result.
+
+
+''' 
+
+s = "1001010" , k = 5
+decimal = 74
+result = 0
+powers = pow(2, len(s)-1 -> 2) ---> 2**6 = 64
+ 
+i = 0, n = 1:
+    74 > 5 and n == '1'
+    decimal = decimal - powers(74 - 64)
+    decimal = 10
+
+i = 1, n = 0:
+    10 > 5 and n=='1' -> True and False = False
+    move to else part
+    increase the result by 1 so i = 2
+    10 // 2 = 5
+
+    thus the result is 5
+
+'''
+
+        
