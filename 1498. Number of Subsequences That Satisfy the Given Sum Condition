@@ -1,0 +1,28 @@
+from typing import List
+
+class Solution:
+    def numSubseq(self, nums: List[int], target: int) -> int:
+        nums.sort()
+        start = 0
+        end = len(nums) - 1
+        result = 0
+        MOD = 10**9 + 7
+
+        while start <= end:
+            if nums[start] + nums[end] <= target:
+                # All combinations of elements between start and end are valid
+                result = (result + pow(2, end - start, MOD)) % MOD
+                start += 1
+            else:
+                end -= 1
+
+        return result
+
+
+NOTE:
+
+To find the subsequence of an array:
+
+There will be 2^n subsequence of arrays present in an array of length n (Empty SUbsequence)
+(2^n) - 1 will be the non-empty subsequence
+
