@@ -1,0 +1,38 @@
+class Solution {
+    public int findMin(int[] nums) {
+        int start = 0;
+        int end = nums.length - 1;
+        while(start < end){
+            int mid = start + (end -start) / 2;
+            if(nums[start] == nums[mid] && nums[mid] == nums[end]){
+                start++;
+                end--;    
+                continue;
+            }
+            if(nums[mid] > nums[end]){
+                start = mid + 1;
+            }else{
+                end = mid;
+            }
+            
+            
+        }
+        return nums[start];
+    }
+}
+
+
+- The array is rotated and may contain duplicates.
+- This is an extended version of the problem without duplicates.
+- We use a modified binary search to find the minimum.
+- Initialize two pointers: start = 0 and end = nums.length - 1.
+- Use a while loop: while (start < end)
+- Find mid: mid = (start + end) / 2
+- If nums[mid] > nums[end], the minimum is in the right half → start = mid + 1
+- If nums[mid] < nums[end], the minimum is in the left half (including mid) → end = mid
+- If nums[mid] == nums[end] && nums[mid] == nums[start], we can't determine the sorted part.
+- So we shrink the search space → start++ and end--
+- This helps skip duplicates and avoids confusion.
+- The condition above may degrade the time complexity to O(n) in the worst case.
+- Keep looping until start == end, and that index will have the minimum value.
+- Final return value: nums[start] is the minimum element.
