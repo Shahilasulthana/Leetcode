@@ -1,0 +1,34 @@
+class Solution:
+    def countIslands(self, grid: List[List[int]], k: int) -> int:
+        rows = len(grid)
+        cols = len(grid[0])
+        visited = [[False]*cols for _ in range(rows)]
+        count = 0
+
+        def dfs(r, c):
+            if r < 0 or r >= rows or c < 0 or c >= cols:
+                return 0
+            if visited[r][c] or grid[r][c] == 0:
+                return 0
+            visited[r][c] = True
+            total = grid[r][c]
+
+         
+            total += dfs(r+1, c)
+            total += dfs(r-1, c)
+            total += dfs(r, c+1)
+            total += dfs(r, c-1)
+            return total
+
+        for i in range(rows):
+            for j in range(cols):
+                if not visited[i][j] and grid[i][j] != 0:
+                    island_sum = dfs(i, j)
+                    if island_sum % k == 0:
+                        count += 1
+
+        return count
+
+# Given a 2D matrix and k value, where 0 represents the water and any presence of number represents the island we have to find the connected islands which is exactly divisible by the given value k.
+# Here we are using DFS to find all the connected islands without water and then checking whether the sum of all connected islands is divisible by k or not and finally returning the number of connected islands 
+# are exactly divisible by k.
