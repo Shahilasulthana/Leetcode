@@ -1,0 +1,34 @@
+class Solution {
+    public int countNodes(TreeNode root) {
+        if(root == null){
+            return 0;
+        }
+
+        int leftHeight = getLeftTreeHeight(root);
+        int rightHeight = getRightTreeHeight(root);
+
+        if(leftHeight == rightHeight){
+            return (1 << leftHeight) - 1; // same as 2^h - 1
+        }
+
+        return 1 + countNodes(root.left) + countNodes(root.right);
+    }
+
+    private int getLeftTreeHeight(TreeNode node){
+        int height = 0;
+        while(node != null){
+            height++;
+            node = node.left;
+        }
+        return height;
+    }
+
+    private int getRightTreeHeight(TreeNode node){
+        int height = 0;
+        while(node != null){
+            height++;
+            node = node.right;
+        }
+        return height;
+    }
+}
