@@ -1,0 +1,62 @@
+/**
+ * Definition for a binary tree node.
+ */
+public class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+
+    TreeNode() {}
+    TreeNode(int val) { this.val = val; }
+    TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
+}
+
+class Solution {
+    public List<TreeNode> generateTrees(int n) {
+
+        // we are initializing a base case that if the given n is null then there will be a empty list returned i.e no BST's will be formed
+
+        if (n == 0) {
+            return new ArrayList<>();
+        }
+
+        // Recursive call of generateTrees by passing 1, n where 1 represents the left of the BST and n represents the right of the BST
+        return generateTrees(1, n); // Helper method
+    }
+
+    private List<TreeNode> generateTrees(int left, int right) {
+
+        //new List is created to store the results or the no.of.BST's formed with the given n value
+        List<TreeNode> roots = new ArrayList<>();
+
+        // As we have to construct a BST all the elements in left subtree should be smaller than the root element and all the elements in the right subtree should be greater than the root 
+
+        if (left > right) {  // if left > right,add null representing no child will be present
+            roots.add(null); // Base case: return null tree
+            return roots;
+        }
+
+        // Try each number between left and right as root
+        for (int i = left; i <= right; i++) {
+            // Recursively get all left subtrees and right subtrees
+            List<TreeNode> leftSubtrees = generateTrees(left, i - 1);
+            List<TreeNode> rightSubtrees = generateTrees(i + 1, right);
+
+            // Combine each left and right subtree with root i
+            for (TreeNode leftSubtree : leftSubtrees) {
+                for (TreeNode rightSubtree : rightSubtrees) {
+                    TreeNode root = new TreeNode(i); // New root
+                    root.left = leftSubtree;
+                    root.right = rightSubtree;
+                    roots.add(root); // Add the formed tree to the list
+                }
+            }
+        }
+
+        return roots; // Return list of all trees formed
+    }
+}
