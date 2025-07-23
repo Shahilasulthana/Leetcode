@@ -1,0 +1,21 @@
+class Solution {
+    public int numTrees(int n) {
+        int[] dp = new int[n + 1];
+        
+        // Base cases
+        dp[0] = 1;  // Empty tree
+        dp[1] = 1;  // Single node tree
+
+        for (int nodes = 2; nodes <= n; nodes++) {
+            for (int root = 1; root <= nodes; root++) {
+                // dp[left] * dp[right]
+                int left = root - 1;
+                int right = nodes - root;
+
+                dp[nodes] += dp[left] * dp[right];
+            }
+        }
+
+        return dp[n];
+    }
+}
