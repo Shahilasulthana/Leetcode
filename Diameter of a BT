@@ -1,0 +1,49 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+
+ // we have to find the maximum diameter of a binary tree and the maximum diameter can be /////  calculated 
+
+// we have to find the left and right height of the BT and have find the maximum among that
+
+class Solution {
+
+    // initializing diameter as a global variable 
+    int diameter = 0;
+
+    public int diameterOfBinaryTree(TreeNode root) {
+        // edge case that if root is null return 0
+        if(root == null){
+            return 0;
+        }
+        //calling an helper function to find the diameter of the BT
+        height(root);
+        return diameter;
+
+    }
+
+    // helper function for finding height
+    private int height(TreeNode node){
+        if(node == null){
+            return 0;
+        }
+        int leftheight = height(node.left);
+        int rightheight = height(node.right);
+
+        diameter = Math.max(diameter , leftheight + rightheight);
+
+        return 1+Math.max(leftheight,rightheight);
+    }
+}
