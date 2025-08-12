@@ -41,4 +41,8 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shahilasulthana/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Shahilasulthana/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 <!---LeetCode Topics End-->
