@@ -45,4 +45,12 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Shahilasulthana/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Shahilasulthana/Leetcode/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Shahilasulthana/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
