@@ -32,6 +32,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Array
 |  |
 | ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shahilasulthana/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shahilasulthana/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Sliding Window
 |  |
