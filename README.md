@@ -51,6 +51,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [0326-power-of-three](https://github.com/Shahilasulthana/Leetcode/tree/master/0326-power-of-three) |
 | [1448-maximum-69-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1448-maximum-69-number) |
+| [1879-maximum-score-from-removing-stones](https://github.com/Shahilasulthana/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 ## Recursion
 |  |
 | ------- |
@@ -59,4 +60,9 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1448-maximum-69-number) |
+| [1879-maximum-score-from-removing-stones](https://github.com/Shahilasulthana/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1879-maximum-score-from-removing-stones](https://github.com/Shahilasulthana/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 <!---LeetCode Topics End-->
