@@ -32,6 +32,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shahilasulthana/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shahilasulthana/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -79,4 +80,8 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
