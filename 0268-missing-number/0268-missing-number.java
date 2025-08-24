@@ -1,12 +1,11 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        // we can use index numbering to find the missing element after sorting the nums array
-        Arrays.sort(nums);
-        for(int i=0;i<nums.length;i++){
-            if(i != nums[i]){
-                return i;
-            }
+        int n = nums.length ;
+        int sum = n * (n+1)/2;
+        int rem = 0;
+        for(int i = 0;i < n;i++){
+            rem += nums[i];
         }
-     return nums.length; // If everyting is matched then it is the final number which is missing
+        return sum - rem;
     }
 }
