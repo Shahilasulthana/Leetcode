@@ -1,33 +1,28 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
-        k = k % n; // if k is greater than the length of the array given
-        int[] temp = new int[n]; //temp is the rotated array and it's size is equal to the array given
-
-        for(int i=0;i<n;i++){
-            temp[(i+k)%n] = nums[i]; // it contains the elements from the nums array
-        }
-        for(int i=0;i<n;i++){
-            nums[i] = temp[i];
+        k = k % n;
+        reverse(nums,0,n-1);//for rotating the entire array
+        reverse(nums,0,k-1); // for rotating only the k elements of the array
+        reverse(nums,k,n-1); // for rotating the rest of the elements
+        
+    }
+    private void reverse(int[] nums, int l, int r){
+        while(l < r){
+            swap(nums,l++,r--); //performing the reverse operation in-place 
         }
     }
+    private void swap(int[] nums, int l, int r){
+        int temp = nums[l];
+        nums[l] = nums[r];
+        nums[r] = temp;
+    }
 }
-// here we have to use the remainder concept to create a rotate an array so what we have to do is 
+// we can use in-place rotation without the use of the temp array what we can do is
 
-// nums = [1,2,3,4,5,6,7], k=3
+// flip the entire array -> flip the k elements -> flip the remaining array
 
-// i=0 → temp[(0+3)%7] = temp[3] = 1
-
-// i=1 → temp[(1+3)%7] = temp[4] = 2
-
-// i=2 → temp[(2+3)%7] = temp[5] = 3
-
-// i=3 → temp[(3+3)%7] = temp[6] = 4
-
-// i=4 → temp[(4+3)%7] = temp[0] = 5
-
-// i=5 → temp[(5+3)%7] = temp[1] = 6
-
-// i=6 → temp[(6+3)%7] = temp[2] = 7
-
-// So temp = [5,6,7,1,2,3,4] ✅
+//  nums = [1,2,3,4,5,6,7], k = 3
+//  [7,6,5,4,3,2,1] => reversing the entire array
+//  [5,6,7,4,3,2,1] => reversing the k elements
+//  [5,6,7,1,2,3,4] => reversing the remaining elements
