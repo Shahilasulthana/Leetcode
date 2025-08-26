@@ -42,6 +42,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0283-move-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shahilasulthana/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shahilasulthana/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shahilasulthana/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Sliding Window
 |  |
 | ------- |
