@@ -37,6 +37,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
@@ -83,11 +84,13 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 ## Quickselect
@@ -105,6 +108,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
@@ -112,4 +116,8 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [0136-single-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
