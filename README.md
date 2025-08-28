@@ -33,6 +33,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0136-single-number) |
@@ -103,6 +104,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
