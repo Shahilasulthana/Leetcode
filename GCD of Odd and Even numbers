@@ -1,0 +1,18 @@
+class Solution {
+    public int gcdOfOddEvenSums(int n) {
+        int sumOdd = n * n; // Sum of first  n odd numbers
+        int sumEven = n * (n-1); // Sum of first n even numbers
+
+        return GCD(sumOdd, sumEven);
+    }
+
+    // Euclidean Algorithm for GCD
+    private int GCD(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
+    }
+}
