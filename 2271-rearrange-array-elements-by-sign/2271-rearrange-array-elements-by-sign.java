@@ -1,38 +1,17 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        ArrayList<Integer> positive = new ArrayList<>();
-        ArrayList<Integer> negative = new ArrayList<>();
-        
+        int[] ans = new int[nums.length];
+        int pos = 0, neg = 1;
 
-        for(int i=0 ; i< nums.length; i++){
-            if(nums[i] > 0){
-                positive.add(nums[i]);
+        for(int num : nums){
+            if(num > 0){
+                ans[pos] = num;
+                pos += 2;
             }else{
-                negative.add(nums[i]);
+                ans[neg] = num;
+                neg += 2;
             }
         }
-        int[] result = new int[nums.length];
-        int i=0, p=0, n=0;
-
-        while(p < positive.size() && n < negative.size()){
-            result[i++] = positive.get(p++);
-            result[i++] =  negative.get(n++);
-        }
-
-        while(p < positive.size()){
-            result[i++] = positive.get(p++);
-        }
-        while(n < negative.size()){
-            result[i++] = negative.get(p++);
-        }
-        return result;
-        
+        return ans;
     }
-    
 }
-
-// here we are storing the positive elements in the separate array and negative elements in the separate array and creating a new array to store the rearranged elements of both positive and negative elements
-
-// i for keeping track of the result array, where to add the next element
-// p for keeping track of the positive array
-// n for negative
