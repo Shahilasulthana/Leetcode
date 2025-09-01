@@ -26,6 +26,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shahilasulthana/Leetcode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Shahilasulthana/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/Shahilasulthana/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -68,6 +69,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shahilasulthana/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shahilasulthana/Leetcode/tree/master/0326-power-of-three) |
