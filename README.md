@@ -100,6 +100,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0169-majority-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 ## Quickselect
 |  |
 | ------- |
@@ -119,12 +120,14 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0001-two-sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -133,4 +136,8 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
