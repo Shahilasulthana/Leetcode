@@ -26,6 +26,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shahilasulthana/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shahilasulthana/Leetcode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Shahilasulthana/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0001-two-sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shahilasulthana/Leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Shahilasulthana/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Shahilasulthana/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0088-merge-sorted-array) |
