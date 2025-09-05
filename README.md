@@ -47,6 +47,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0035-search-insert-position](https://github.com/Shahilasulthana/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Shahilasulthana/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shahilasulthana/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Shahilasulthana/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahilasulthana/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -156,6 +157,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shahilasulthana/Leetcode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -169,5 +171,6 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shahilasulthana/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shahilasulthana/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
