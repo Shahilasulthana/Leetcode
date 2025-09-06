@@ -30,6 +30,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shahilasulthana/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shahilasulthana/Leetcode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Shahilasulthana/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/Shahilasulthana/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -49,6 +50,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0053-maximum-subarray](https://github.com/Shahilasulthana/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shahilasulthana/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahilasulthana/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shahilasulthana/Leetcode/tree/master/0128-longest-consecutive-sequence) |
