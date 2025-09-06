@@ -32,6 +32,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0069-sqrtx](https://github.com/Shahilasulthana/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Shahilasulthana/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/Shahilasulthana/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -55,6 +56,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahilasulthana/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shahilasulthana/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
