@@ -169,6 +169,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
+| [1078-remove-outermost-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Union Find
 |  |
 | ------- |
@@ -179,4 +180,8 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0048-rotate-image](https://github.com/Shahilasulthana/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shahilasulthana/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
