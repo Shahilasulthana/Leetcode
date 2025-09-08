@@ -97,6 +97,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0342-power-of-four](https://github.com/Shahilasulthana/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1448-maximum-69-number) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shahilasulthana/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
+| [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [1448-maximum-69-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1448-maximum-69-number) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shahilasulthana/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
+| [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 | [1078-remove-outermost-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Union Find
 |  |
 | ------- |
