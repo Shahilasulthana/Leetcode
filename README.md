@@ -138,6 +138,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shahilasulthana/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -170,6 +171,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 | [1078-remove-outermost-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
