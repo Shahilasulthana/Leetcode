@@ -100,6 +100,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1448-maximum-69-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1448-maximum-69-number) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shahilasulthana/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2752-sum-multiples](https://github.com/Shahilasulthana/Leetcode/tree/master/2752-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
