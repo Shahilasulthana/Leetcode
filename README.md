@@ -70,6 +70,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shahilasulthana/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shahilasulthana/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shahilasulthana/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Sliding Window
 |  |
@@ -115,6 +116,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shahilasulthana/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
+| [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
+| [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
@@ -172,6 +175,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0054-spiral-matrix](https://github.com/Shahilasulthana/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Shahilasulthana/Leetcode/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
