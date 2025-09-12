@@ -183,6 +183,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0151-reverse-words-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
+| [0812-rotate-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Union Find
@@ -207,4 +208,8 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
