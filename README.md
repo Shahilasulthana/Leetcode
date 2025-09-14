@@ -97,6 +97,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shahilasulthana/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shahilasulthana/Leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0415-add-strings) |
 | [1448-maximum-69-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1448-maximum-69-number) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shahilasulthana/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -177,6 +178,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shahilasulthana/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Shahilasulthana/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 ## String
@@ -186,6 +188,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0242-valid-anagram](https://github.com/Shahilasulthana/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
