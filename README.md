@@ -71,6 +71,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shahilasulthana/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shahilasulthana/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shahilasulthana/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shahilasulthana/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -152,6 +153,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0151-reverse-words-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0283-move-zeroes) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -205,6 +207,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Shahilasulthana/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shahilasulthana/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Union Find
 |  |
 | ------- |
