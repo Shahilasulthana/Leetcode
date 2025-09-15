@@ -104,6 +104,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0342-power-of-four](https://github.com/Shahilasulthana/Leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0415-add-strings) |
 | [1448-maximum-69-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1448-maximum-69-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shahilasulthana/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -180,6 +181,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Shahilasulthana/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
+| [1610-xor-operation-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Counting
 |  |
 | ------- |
