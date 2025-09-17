@@ -89,6 +89,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Shahilasulthana/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Shahilasulthana/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahilasulthana/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Shahilasulthana/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -114,6 +115,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Shahilasulthana/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0326-power-of-three](https://github.com/Shahilasulthana/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shahilasulthana/Leetcode/tree/master/0342-power-of-four) |
 ## Greedy
@@ -202,6 +204,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Shahilasulthana/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Shahilasulthana/Leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0205-isomorphic-strings) |
