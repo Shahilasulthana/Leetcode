@@ -80,6 +80,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shahilasulthana/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Shahilasulthana/Leetcode/tree/master/3321-type-of-triangle) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Shahilasulthana/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [2752-sum-multiples](https://github.com/Shahilasulthana/Leetcode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Shahilasulthana/Leetcode/tree/master/3321-type-of-triangle) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Shahilasulthana/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
 | ------- |
