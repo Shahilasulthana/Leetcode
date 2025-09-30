@@ -68,6 +68,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Shahilasulthana/Leetcode/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1651-shuffle-string](https://github.com/Shahilasulthana/Leetcode/tree/master/1651-shuffle-string) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shahilasulthana/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shahilasulthana/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -156,6 +157,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Shahilasulthana/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Shahilasulthana/Leetcode/tree/master/3321-type-of-triangle) |
 ## Quickselect
@@ -172,6 +174,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0151-reverse-words-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0283-move-zeroes) |
+| [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
