@@ -113,6 +113,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0415-add-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0415-add-strings) |
 | [1448-maximum-69-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1642-water-bottles](https://github.com/Shahilasulthana/Leetcode/tree/master/1642-water-bottles) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shahilasulthana/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -218,6 +219,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0067-add-binary](https://github.com/Shahilasulthana/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Shahilasulthana/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0415-add-strings) |
+| [1642-water-bottles](https://github.com/Shahilasulthana/Leetcode/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 ## String
