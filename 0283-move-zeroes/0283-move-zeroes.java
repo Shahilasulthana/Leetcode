@@ -14,4 +14,4 @@ class Solution {
 }
 
 // we have used 2 pointer approach here 
-// If we found an element which is not zero we will swap it and move it to the initial of the /array it will automatically makes the 0 to assemble in the last
+// If we found an element which is not zero we will swap it and move it to the initial of the array it will automatically makes the 0 to assemble in the last
