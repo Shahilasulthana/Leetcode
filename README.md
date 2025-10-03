@@ -182,6 +182,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0189-rotate-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Shahilasulthana/Leetcode/tree/master/0443-string-compression) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -242,6 +243,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0387-first-unique-character-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/Shahilasulthana/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Shahilasulthana/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/Shahilasulthana/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0812-rotate-string) |
