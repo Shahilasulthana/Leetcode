@@ -73,6 +73,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shahilasulthana/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/Shahilasulthana/Leetcode/tree/master/1651-shuffle-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shahilasulthana/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shahilasulthana/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shahilasulthana/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -166,6 +167,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Shahilasulthana/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Shahilasulthana/Leetcode/tree/master/3321-type-of-triangle) |
 ## Quickselect
@@ -186,6 +188,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0392-is-subsequence](https://github.com/Shahilasulthana/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shahilasulthana/Leetcode/tree/master/0443-string-compression) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -203,6 +206,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Shahilasulthana/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shahilasulthana/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Shahilasulthana/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
