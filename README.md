@@ -69,6 +69,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0334-increasing-triplet-subsequence](https://github.com/Shahilasulthana/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Shahilasulthana/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Shahilasulthana/Leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shahilasulthana/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -89,6 +90,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Shahilasulthana/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shahilasulthana/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
 |  |
