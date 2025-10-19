@@ -70,6 +70,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Shahilasulthana/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Shahilasulthana/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Shahilasulthana/Leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shahilasulthana/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -242,6 +243,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0067-add-binary](https://github.com/Shahilasulthana/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Shahilasulthana/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Shahilasulthana/Leetcode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/Shahilasulthana/Leetcode/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
@@ -290,6 +292,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Shahilasulthana/Leetcode/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Number Theory
