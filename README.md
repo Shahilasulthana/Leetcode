@@ -104,6 +104,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shahilasulthana/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Shahilasulthana/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Shahilasulthana/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahilasulthana/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +183,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shahilasulthana/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Shahilasulthana/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shahilasulthana/Leetcode/tree/master/0031-next-permutation) |
@@ -247,6 +249,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahilasulthana/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Shahilasulthana/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shahilasulthana/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Shahilasulthana/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Shahilasulthana/Leetcode/tree/master/0013-roman-to-integer) |
