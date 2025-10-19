@@ -18,3 +18,8 @@ class Solution {
         return sum;
     }
 }
+
+// 1. Find all the substrings
+// 2. Find the high and low frequency characters in all the substrings
+// 3. Add the difference of all the substrings
+// 4. Retrun the sum
