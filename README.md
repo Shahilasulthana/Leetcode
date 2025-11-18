@@ -71,6 +71,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Shahilasulthana/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Shahilasulthana/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Shahilasulthana/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Shahilasulthana/Leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -177,6 +178,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Shahilasulthana/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/Shahilasulthana/Leetcode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
@@ -219,6 +221,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Shahilasulthana/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Shahilasulthana/Leetcode/tree/master/0645-set-mismatch) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shahilasulthana/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shahilasulthana/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -231,6 +234,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Shahilasulthana/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Shahilasulthana/Leetcode/tree/master/0645-set-mismatch) |
 | [1610-xor-operation-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Counting
 |  |
