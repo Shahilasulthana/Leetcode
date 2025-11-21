@@ -76,6 +76,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0792-binary-search](https://github.com/Shahilasulthana/Leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shahilasulthana/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shahilasulthana/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/Shahilasulthana/Leetcode/tree/master/1651-shuffle-string) |
@@ -180,6 +181,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0451-sort-characters-by-frequency](https://github.com/Shahilasulthana/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Shahilasulthana/Leetcode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Shahilasulthana/Leetcode/tree/master/3321-type-of-triangle) |
@@ -223,6 +225,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Shahilasulthana/Leetcode/tree/master/0645-set-mismatch) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shahilasulthana/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shahilasulthana/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Shahilasulthana/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -328,4 +331,8 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [1161-project-employees-i](https://github.com/Shahilasulthana/Leetcode/tree/master/1161-project-employees-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
