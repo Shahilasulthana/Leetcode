@@ -78,6 +78,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shahilasulthana/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Shahilasulthana/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shahilasulthana/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/Shahilasulthana/Leetcode/tree/master/1651-shuffle-string) |
@@ -257,6 +258,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0258-add-digits](https://github.com/Shahilasulthana/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Shahilasulthana/Leetcode/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Shahilasulthana/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Shahilasulthana/Leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -308,6 +310,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [0682-baseball-game](https://github.com/Shahilasulthana/Leetcode/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Shahilasulthana/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Number Theory
 |  |
