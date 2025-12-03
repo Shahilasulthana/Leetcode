@@ -81,6 +81,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1034-subarrays-with-k-different-integers](https://github.com/Shahilasulthana/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shahilasulthana/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shahilasulthana/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shahilasulthana/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/Shahilasulthana/Leetcode/tree/master/1651-shuffle-string) |
@@ -316,6 +317,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0682-baseball-game](https://github.com/Shahilasulthana/Leetcode/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shahilasulthana/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shahilasulthana/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Number Theory
 |  |
@@ -345,4 +347,8 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shahilasulthana/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
