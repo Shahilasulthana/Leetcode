@@ -266,6 +266,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1441-build-an-array-with-stack-operations](https://github.com/Shahilasulthana/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Shahilasulthana/Leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2211-count-collisions-on-a-road](https://github.com/Shahilasulthana/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shahilasulthana/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 ## String
@@ -296,6 +297,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shahilasulthana/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Shahilasulthana/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2211-count-collisions-on-a-road](https://github.com/Shahilasulthana/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shahilasulthana/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/Shahilasulthana/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -321,6 +323,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1441-build-an-array-with-stack-operations](https://github.com/Shahilasulthana/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shahilasulthana/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2211-count-collisions-on-a-road](https://github.com/Shahilasulthana/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Number Theory
 |  |
 | ------- |
