@@ -83,6 +83,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shahilasulthana/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shahilasulthana/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shahilasulthana/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shahilasulthana/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/Shahilasulthana/Leetcode/tree/master/1651-shuffle-string) |
@@ -189,6 +190,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0645-set-mismatch](https://github.com/Shahilasulthana/Leetcode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shahilasulthana/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Shahilasulthana/Leetcode/tree/master/3321-type-of-triangle) |
