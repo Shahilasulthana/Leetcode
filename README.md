@@ -88,6 +88,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1580-shuffle-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/Shahilasulthana/Leetcode/tree/master/1651-shuffle-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shahilasulthana/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shahilasulthana/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -142,6 +143,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1448-maximum-69-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Shahilasulthana/Leetcode/tree/master/1642-water-bottles) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shahilasulthana/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2485-find-the-pivot-integer](https://github.com/Shahilasulthana/Leetcode/tree/master/2485-find-the-pivot-integer) |
