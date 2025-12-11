@@ -44,6 +44,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [0001-two-sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shahilasulthana/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shahilasulthana/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -184,6 +185,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -207,6 +209,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shahilasulthana/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Shahilasulthana/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shahilasulthana/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0088-merge-sorted-array) |
