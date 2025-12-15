@@ -5,8 +5,8 @@ class Solution:
         if numRows == 0 :
              return result
         
-        result.append([1])
-        for i in range (1, numRows):
+        result.append([1]) # firstRow is always 1
+        for i in range (1, numRows): 
             prev_row = result[i-1]
             row = [1]
 
