@@ -61,6 +61,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0128-longest-consecutive-sequence](https://github.com/Shahilasulthana/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shahilasulthana/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Shahilasulthana/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0169-majority-element) |
@@ -127,6 +128,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0053-maximum-subarray](https://github.com/Shahilasulthana/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Shahilasulthana/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahilasulthana/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Shahilasulthana/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Shahilasulthana/Leetcode/tree/master/0392-is-subsequence) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Shahilasulthana/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Math
