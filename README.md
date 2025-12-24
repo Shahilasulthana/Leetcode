@@ -148,6 +148,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0326-power-of-three](https://github.com/Shahilasulthana/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shahilasulthana/Leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0415-add-strings) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Shahilasulthana/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shahilasulthana/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -251,6 +252,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0451-sort-characters-by-frequency](https://github.com/Shahilasulthana/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Shahilasulthana/Leetcode/tree/master/0645-set-mismatch) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Shahilasulthana/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shahilasulthana/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
