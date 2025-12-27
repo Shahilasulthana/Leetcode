@@ -230,6 +230,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0345-reverse-vowels-of-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shahilasulthana/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shahilasulthana/Leetcode/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -371,6 +372,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shahilasulthana/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Database
 |  |
 | ------- |
