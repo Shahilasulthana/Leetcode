@@ -370,6 +370,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shahilasulthana/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Database
 |  |
 | ------- |
