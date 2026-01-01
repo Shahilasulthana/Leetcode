@@ -54,6 +54,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0048-rotate-image](https://github.com/Shahilasulthana/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shahilasulthana/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shahilasulthana/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Shahilasulthana/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -138,6 +139,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0009-palindrome-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shahilasulthana/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shahilasulthana/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Shahilasulthana/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shahilasulthana/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shahilasulthana/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shahilasulthana/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
