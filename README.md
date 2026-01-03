@@ -172,6 +172,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0010-regular-expression-matching](https://github.com/Shahilasulthana/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Shahilasulthana/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Shahilasulthana/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shahilasulthana/Leetcode/tree/master/0342-power-of-four) |
 ## Greedy
@@ -231,6 +232,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0142-linked-list-cycle-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shahilasulthana/Leetcode/tree/master/0392-is-subsequence) |
@@ -350,6 +352,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shahilasulthana/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/Shahilasulthana/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/Shahilasulthana/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Shahilasulthana/Leetcode/tree/master/0739-daily-temperatures) |
@@ -381,6 +384,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0141-linked-list-cycle](https://github.com/Shahilasulthana/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Database
