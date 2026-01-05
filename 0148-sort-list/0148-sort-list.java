@@ -37,4 +37,6 @@ class Solution {
     }
 }
 
-// Use tortoise hare algorithm to find the middle of the LL, and compare it with the head of the LL if the head is smaller than the 
+// Find the length of the LL
+// Store all the things into array
+// 
