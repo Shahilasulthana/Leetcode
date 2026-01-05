@@ -194,6 +194,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shahilasulthana/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -201,6 +202,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [0015-3sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0229-majority-element-ii) |
@@ -231,6 +233,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0088-merge-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Shahilasulthana/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -386,6 +389,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0021-merge-two-sorted-lists](https://github.com/Shahilasulthana/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Shahilasulthana/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -409,4 +413,8 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shahilasulthana/Leetcode/tree/master/0014-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
