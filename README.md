@@ -343,6 +343,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/Shahilasulthana/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Shahilasulthana/Leetcode/tree/master/3312-number-of-changing-keys) |
+| [3798-largest-even-number](https://github.com/Shahilasulthana/Leetcode/tree/master/3798-largest-even-number) |
 ## Union Find
 |  |
 | ------- |
