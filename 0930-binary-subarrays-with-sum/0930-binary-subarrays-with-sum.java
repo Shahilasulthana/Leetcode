@@ -1,22 +1,22 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
+        return atmost(nums, goal) - atmost(nums, goal - 1);
+    }
+    private int atmost(int[] nums, int k){
+        if(k < 0) return 0;
         int count = 0;
+        int left = 0;
         int sum = 0;
-        Map<Integer, Integer> map = new HashMap<>();
-        map.put(0,1);
-        for(int num : nums){
-            sum += num;
-            if(map.containsKey(sum - goal)){
-                count += map.get(sum - goal);
+        for(int right = 0; right < nums.length; right ++){
+            sum += nums[right];
+
+            while(sum > k){
+                sum -= nums[left];
+                left ++;
             }
-            map.put(sum, map.getOrDefault(sum, 0) + 1);
+            count += (right - left + 1);
         }
         return count;
     }
-}
 
-// Prefix Sum + HashMap
-// Instead of checking every subarray (which is slow), we use this fact:        
-// If
-// currentPrefixSum − previousPrefixSum = goal
-// then the subarray between them has sum = goal.
+}
