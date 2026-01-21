@@ -88,6 +88,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0930-binary-subarrays-with-sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shahilasulthana/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shahilasulthana/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shahilasulthana/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shahilasulthana/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -119,6 +120,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0904-fruit-into-baskets](https://github.com/Shahilasulthana/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shahilasulthana/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shahilasulthana/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shahilasulthana/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
 |  |
@@ -126,6 +128,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0238-product-of-array-except-self](https://github.com/Shahilasulthana/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shahilasulthana/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shahilasulthana/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2485-find-the-pivot-integer](https://github.com/Shahilasulthana/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
@@ -158,6 +161,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0415-add-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/Shahilasulthana/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shahilasulthana/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shahilasulthana/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shahilasulthana/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -279,6 +283,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0930-binary-subarrays-with-sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shahilasulthana/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shahilasulthana/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shahilasulthana/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shahilasulthana/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
