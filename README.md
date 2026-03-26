@@ -286,6 +286,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0451-sort-characters-by-frequency](https://github.com/Shahilasulthana/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilasulthana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Shahilasulthana/Leetcode/tree/master/0645-set-mismatch) |
+| [0859-buddy-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/Shahilasulthana/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shahilasulthana/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shahilasulthana/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -354,6 +355,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0657-robot-return-to-origin](https://github.com/Shahilasulthana/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Shahilasulthana/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0812-rotate-string) |
+| [0859-buddy-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0859-buddy-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1651-shuffle-string](https://github.com/Shahilasulthana/Leetcode/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shahilasulthana/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
