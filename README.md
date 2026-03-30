@@ -228,6 +228,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shahilasulthana/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shahilasulthana/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3226-minimum-number-game](https://github.com/Shahilasulthana/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Shahilasulthana/Leetcode/tree/master/3321-type-of-triangle) |
 ## Quickselect
@@ -296,6 +297,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shahilasulthana/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shahilasulthana/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Shahilasulthana/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -365,6 +367,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [2211-count-collisions-on-a-road](https://github.com/Shahilasulthana/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shahilasulthana/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3194-find-words-containing-character](https://github.com/Shahilasulthana/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Shahilasulthana/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3798-largest-even-number](https://github.com/Shahilasulthana/Leetcode/tree/master/3798-largest-even-number) |
