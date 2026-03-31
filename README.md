@@ -149,6 +149,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [0009-palindrome-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shahilasulthana/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Shahilasulthana/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shahilasulthana/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shahilasulthana/Leetcode/tree/master/0067-add-binary) |
@@ -320,6 +321,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Shahilasulthana/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Shahilasulthana/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Shahilasulthana/Leetcode/tree/master/0258-add-digits) |
@@ -341,6 +343,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0010-regular-expression-matching](https://github.com/Shahilasulthana/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Shahilasulthana/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shahilasulthana/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Shahilasulthana/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shahilasulthana/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0151-reverse-words-in-a-string) |
