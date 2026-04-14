@@ -1,28 +1,14 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
+        // two pointer approach 
         int n = nums.length;
-        
-        int i = 0; //slow pointer
-        for(int j = 1;j<n;j++){ //fast pointer
-            if(nums[j] != nums[i]){
+        int i = 0; // slow pointer pointing only the unique elements
+        for(int j=1; j<n; j++){// fast pointer
+            if(nums[j] != nums[i]){ //found unique element
                 i++;
-                nums[i] = nums[j];
+                nums[i] = nums[j]; //grouped the unique element in the starting
             }
         }
-        return i+1;
+        return i+1; //as i track only of the unique element the place where the i is standing is the number of unique elements present
     }
 }
-// we can use a two pointer with a slow and fast pointer
-//  i j
-// [1,1,2] => nums[i] == nums[j] => do nothing
-//  i   j                  i j                             i 
-// [1,1,2] => 1 != 2 => [1,1,2] => nums[i] = nums[j] => [1,2,2]
-
-// i = 1
-
-// return i+1 => return 2
-
-// output 2
-
-
-
