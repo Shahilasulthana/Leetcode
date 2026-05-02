@@ -173,6 +173,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [1642-water-bottles](https://github.com/Shahilasulthana/Leetcode/tree/master/1642-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shahilasulthana/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
+| [1922-count-good-numbers](https://github.com/Shahilasulthana/Leetcode/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Shahilasulthana/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2485-find-the-pivot-integer](https://github.com/Shahilasulthana/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -191,6 +192,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0234-palindrome-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Shahilasulthana/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shahilasulthana/Leetcode/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/Shahilasulthana/Leetcode/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
