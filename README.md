@@ -152,6 +152,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0013-roman-to-integer](https://github.com/Shahilasulthana/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Shahilasulthana/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Shahilasulthana/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Shahilasulthana/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shahilasulthana/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shahilasulthana/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shahilasulthana/Leetcode/tree/master/0069-sqrtx) |
@@ -185,6 +186,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Shahilasulthana/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Shahilasulthana/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Shahilasulthana/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Shahilasulthana/Leetcode/tree/master/0326-power-of-three) |
