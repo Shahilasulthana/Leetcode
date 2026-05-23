@@ -437,6 +437,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [1161-project-employees-i](https://github.com/Shahilasulthana/Leetcode/tree/master/1161-project-employees-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Shahilasulthana/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Counting Sort
 |  |
 | ------- |
