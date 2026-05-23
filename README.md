@@ -439,6 +439,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0577-employee-bonus](https://github.com/Shahilasulthana/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Shahilasulthana/Leetcode/tree/master/0584-find-customer-referee) |
 | [1161-project-employees-i](https://github.com/Shahilasulthana/Leetcode/tree/master/1161-project-employees-i) |
+| [1280-students-and-examinations](https://github.com/Shahilasulthana/Leetcode/tree/master/1280-students-and-examinations) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shahilasulthana/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Counting Sort
 |  |
