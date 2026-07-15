@@ -184,6 +184,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Shahilasulthana/Leetcode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Shahilasulthana/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shahilasulthana/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -410,6 +411,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shahilasulthana/Leetcode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shahilasulthana/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 |  |
 | ------- |
