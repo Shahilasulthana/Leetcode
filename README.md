@@ -37,6 +37,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0162-find-peak-element](https://github.com/Shahilasulthana/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shahilasulthana/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/Shahilasulthana/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Shahilasulthana/Leetcode/tree/master/0792-binary-search) |
@@ -78,6 +79,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0283-move-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shahilasulthana/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Shahilasulthana/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shahilasulthana/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahilasulthana/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -230,6 +232,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0242-valid-anagram](https://github.com/Shahilasulthana/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shahilasulthana/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Shahilasulthana/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Shahilasulthana/Leetcode/tree/master/0645-set-mismatch) |
@@ -265,6 +268,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0283-move-zeroes](https://github.com/Shahilasulthana/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shahilasulthana/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Shahilasulthana/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shahilasulthana/Leetcode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Shahilasulthana/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -290,6 +294,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 | [0242-valid-anagram](https://github.com/Shahilasulthana/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shahilasulthana/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shahilasulthana/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shahilasulthana/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahilasulthana/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shahilasulthana/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shahilasulthana/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
